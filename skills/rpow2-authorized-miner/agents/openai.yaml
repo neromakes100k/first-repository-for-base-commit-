@@ -1,0 +1,7 @@
+interface:
+  display_name: "RPOW2 Miner Helper"
+  short_description: "Clone and run the standalone RPOW2 miner safely."
+  default_prompt: "Use $rpow2-authorized-miner to help clone the standalone GitHub repo and prepare safe Windows PowerShell or macOS/Linux RPOW2 miner commands with explicit cookie setup, thread selection, and mint retry options."
+
+policy:
+  allow_implicit_invocation: true
